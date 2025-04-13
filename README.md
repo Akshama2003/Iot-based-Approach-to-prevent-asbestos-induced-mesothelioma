@@ -38,7 +38,8 @@ A real-time safety and environmental monitoring system designed to **detect harm
 | Hardware Setup | Dashboard View |
 |----------------|----------------|
 
-
+## Revenue Model 
+![WhatsApp Image 2025-04-13 at 13 23 59_f7d694aa](https://github.com/user-attachments/assets/094509fb-045b-4a89-a8fa-404eeb0dc849)
 ![Screenshot (42)](https://github.com/user-attachments/assets/f8a05dce-bd1d-4d96-b472-82a14dfe19b9)
 l image links or paths.*![Screenshot (43)](https://github.com/user-attachments/assets/cd6f8263-debf-4762-b4b2-da50afd91e36)
 
