@@ -39,7 +39,7 @@ A real-time safety and environmental monitoring system designed to **detect harm
 |----------------|----------------|
 
 
-*Replace with your rea![Screenshot (42)](https://github.com/user-attachments/assets/f8a05dce-bd1d-4d96-b472-82a14dfe19b9)
+![Screenshot (42)](https://github.com/user-attachments/assets/f8a05dce-bd1d-4d96-b472-82a14dfe19b9)
 l image links or paths.*![Screenshot (43)](https://github.com/user-attachments/assets/cd6f8263-debf-4762-b4b2-da50afd91e36)
 
 ![Screenshot (44)](https://github.com/user-attachments/assets/233b0a5c-9f23-41db-9001-9784083f3aa0)
