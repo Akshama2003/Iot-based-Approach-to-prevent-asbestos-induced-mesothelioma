@@ -4,6 +4,8 @@
 ![GitHub Stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
 ![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-green)
 ![License](https://img.shields.io/github/license/your-username/your-repo-name)
+![WhatsApp Image 2025-04-13 at 12 49 00_4c74732e](https://github.com/user-attachments/assets/1ecbb706-ccc0-411e-a6ad-db2b2f0bc302)
+![WhatsApp Image 2025-04-13 at 12 49 00_bfe5bb03](https://github.com/user-attachments/assets/c58f64a3-368d-438b-b7a1-358d5fbf2524)
 
 A real-time safety and environmental monitoring system designed to **detect harmful asbestos particles**, track **vital signs of factory workers**, and ensure **occupational safety** in high-risk industrial zones like **sugar mills**. Powered by **IoT**, **ML**, and **Blynk/Firebase Dashboard Integration**, this project won accolades at HackOnHills 6.0.
 
