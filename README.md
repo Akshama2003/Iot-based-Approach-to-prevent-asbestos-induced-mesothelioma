@@ -38,9 +38,16 @@ A real-time safety and environmental monitoring system designed to **detect harm
 |----------------|----------------|
 | ![hardware](assets/hardware.jpg) | ![dashboard](assets/dashboard.jpg) |
 
-*Replace with your real image links or paths.*
+*Replace with your rea![Screenshot (42)](https://github.com/user-attachments/assets/f8a05dce-bd1d-4d96-b472-82a14dfe19b9)
+l image links or paths.*![Screenshot (43)](https://github.com/user-attachments/assets/cd6f8263-debf-4762-b4b2-da50afd91e36)
 
----
+![Screenshot (44)](https://github.com/user-attachments/assets/233b0a5c-9f23-41db-9001-9784083f3aa0)
+![Screenshot (45)](https://github.com/user-attachments/assets/3774c76b-cd80-4baf-8de4-551195e69efe)
+![Screenshot (46)](https://github.com/user-attachments/assets/000ca244-c47f-49fd-8558-9902ee690a2a)
+
+---![Screenshot (41)](https://github.com/user-attachments/assets/8aa6e2bd-7ee2-451b-8b12-b3758c9c96be)
+
+![Screenshot (47)](https://github.com/user-attachments/assets/0ce7b4a9-8ca5-4efe-9b13-1d7709d5e583)
 
 ## 🔍 Tech Stack
 
