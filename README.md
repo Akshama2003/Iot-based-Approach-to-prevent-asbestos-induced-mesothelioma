@@ -1,4 +1,3 @@
-# Techies
 # 🛡️ IoT & ML-based Worker Safety Monitoring System
 
 ![GitHub Stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
